@@ -39,7 +39,37 @@ Wynk is an online note-taking SaaS web application. It helps users make notes on
 
 ### Email Template
 
-![Email Template.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ef2f65e7-3446-4fb9-ac2a-7125391283e2/Email_Template.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220202T125043Z&X-Amz-Expires=86400&X-Amz-Signature=de5e0c27266cd0c6fa53cf4510532842fef308ce83ad2d768954ef9bd4cf4e12&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Email%2520Template.png%22&x-id=GetObject)
+![Email Template.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ef2f65e7-3446-4fb9-ac2a-7125391283e2/Email_Template.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220202T125043Z&X-Amz-Expires=86400&X-Amz-Signature=de5e0c27266cd0c6fa53cf4510532842fef308ce83ad2d768954ef9bd4cf4e12&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Email%2520Template.png%22&x-id=GetObject)  
+
+## Screenshots
+
+### Home Page
+
+![Homepage.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db32d07c-292a-47db-8f3f-6c902dd8a4ba/Homepage.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220202T141828Z&X-Amz-Expires=86400&X-Amz-Signature=e852d4d84197633f8d5b738d762bee0b1f8d7e0ab3f8ebe145907ea4c9d387c7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Homepage.png%22&x-id=GetObject)
+
+### Login
+
+![Login.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/45c0a9ed-d104-43a7-9c18-528c0456730b/Login.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220202T142105Z&X-Amz-Expires=86400&X-Amz-Signature=6c37eba9bae177e81eb14b443af50142d7d8472dafa88c8a37a4697e4864ee87&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Login.png%22&x-id=GetObject)
+
+### Register Flow
+
+![Register Flow.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/675dccea-6c4e-46e8-ae59-f09ba40e924b/Register_Flow.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220202T141857Z&X-Amz-Expires=86400&X-Amz-Signature=3aaa9b87986b71bafd007abc729f41600497d4588267a4c7037a1e645199d38e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Register%2520Flow.png%22&x-id=GetObject)
+
+### Forgot Password Flow
+
+![Forgot Password Flow.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/940123b8-205b-4a1f-93f5-c6be0047ec6f/Forgot_Password_Flow.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220202T141915Z&X-Amz-Expires=86400&X-Amz-Signature=54afcbf7d50d6f09673942a2e529ba56c0e5ac717a4bed2d2c661f9801411a7b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Forgot%2520Password%2520Flow.png%22&x-id=GetObject)
+
+### Dashboard
+
+![Dashboard.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2cc1991a-b70c-4103-ae84-2d7ae95ef1ac/Dashboard.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220202T142132Z&X-Amz-Expires=86400&X-Amz-Signature=becaf8cb45eb0bac60188db9c33752c9702c572439e2f18b205c52a89ef6e69e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Dashboard.png%22&x-id=GetObject)
+
+### Settings Panel
+
+![Settings Panel.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7922a77d-7ca3-4ce9-b3bd-9ffda88ef514/Settings_Panel.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220202T142149Z&X-Amz-Expires=86400&X-Amz-Signature=c3538173a5f805fee334a58ce3f3da3b2e67d98b6024240dcfd4ff58bf70b6f6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Settings%2520Panel.png%22&x-id=GetObject)
+
+### Email Templates
+
+![Email Templates.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0a956352-9a42-45c8-b32b-026781012f2f/Email_Templates.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220202T142206Z&X-Amz-Expires=86400&X-Amz-Signature=e2f551a4cfac4b3c4f294c4fc2d6eedcf8bb0af6da3abae4eb806f1240302a30&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Email%2520Templates.png%22&x-id=GetObject)
 
 ## Technologies Used
 
