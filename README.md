@@ -31,7 +31,7 @@ Wynk is an online note-taking SaaS web application. It helps users make notes on
 
 ### Dashboard
 
-![Dashboard.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/521e7721-5b15-4911-9621-0969d0f52dbc/Dashboard.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220222%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220222T121258Z&X-Amz-Expires=86400&X-Amz-Signature=8840424a7d8b124d635acee5ae5d4999d4fa7c7429e9b06c07944350718a438c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Dashboard.png%22&x-id=GetObject)
+![Dashboard.png](https://www.flickr.com/gp/195191566@N05/9296E8)
 
 ### Settings Panel
 
