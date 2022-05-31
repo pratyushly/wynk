@@ -3,12 +3,23 @@ const nodemailer = require('nodemailer');
 
 // initialize nodemailer
 var transporter = nodemailer.createTransport(
+    // {
+    //     service: 'gmail',
+    //     auth: {
+    //         user: process.env.SENDING_MAIL_ADDRESS,
+    //         pass: process.env.MAIL_PASSWORD
+    //     },
+    // }
     {
-        service: 'gmail',
+        host: 'smtp.mail.yahoo.com',
+        port: 587,
+        service: 'yahoo',
+        secure: false,
         auth: {
             user: process.env.SENDING_MAIL_ADDRESS,
             pass: process.env.MAIL_PASSWORD
         },
+        debug: false
     }
 );
 
